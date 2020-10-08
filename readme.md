@@ -6,7 +6,7 @@
 
 
 # Important News! 
-App Center MBaaS will not be maturing out of preview. You can read more about this [here](https://devblogs.microsoft.com/appcenter/app-center-mbaas-retirement/)
+App Center MBaaS will not be maturing out of preview. You can read more about this [here](https://devblogs.microsoft.com/appcenter/app-center-mbaas-retirement/?WT.mc_id=microsoftcloudadvocatesapp-github-mijam)
 
 ---
 This application is designed to demonstrate how to build Xamarin.Forms 4.x mobile apps targeting both iOS and Android. 
